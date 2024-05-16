@@ -8,4 +8,4 @@
 
 ## Models Used
 * Monte Carlo Simulation: A computational algorithm that relies on repeated random sampling to obtain numerical results, used for portfolio optimization.
-CAPM (Capital Asset Pricing Model): Used to calculate the expected return of an asset based on its beta and expected market return
+* CAPM (Capital Asset Pricing Model): Used to calculate the expected return of an asset based on its beta and expected market return
