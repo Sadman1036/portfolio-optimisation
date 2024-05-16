@@ -7,12 +7,12 @@
 The dataset consists of historical stock prices for various companies, pulled from Yahoo Finance. The data includes daily closing prices and other relevant financial metrics. It has been cleaned and preprocessed to handle missing values and outliers, ensuring robust model training.
 
 Companies include:
-*Amazon (AMZN)
-*Meta Platforms (META)
-*NVIDIA (NVDA)
-*Simon Property Group (SPG)
-*Walmart (WMT)
-*S&P 500 Index (^GSPC)
+* Amazon (AMZN)
+* Meta Platforms (META)
+* NVIDIA (NVDA)
+* Simon Property Group (SPG)
+* Walmart (WMT)
+* S&P 500 Index (^GSPC)
 
 ## Models Used
 * Monte Carlo Simulation: A computational algorithm that relies on repeated random sampling to obtain numerical results, used for portfolio optimization.
